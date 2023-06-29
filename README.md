@@ -12,7 +12,7 @@
   Even the Kellogs cereal that we eat, the box is made out of recycled cardboard.
  Most of the global plastics waste goes into incineration (25%) and landfills (40%), meaning that the proper usage of these materials doesn't take place.
 
- <a href="https://srishtiim.github.io/sustainability/com.htm">companies</a>
+ <a href="https://srishtiim.github.io/sustainability/fashion.htm">Fashion and sustainability</a>
 
  
   
