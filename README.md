@@ -12,7 +12,14 @@
   Even the Kellogs cereal that we eat, the box is made out of recycled cardboard.
  However, most of the global plastics waste goes into incineration (25%) and landfills (40%), meaning that the proper usage of these materials doesn't take place.
 
- <a href="https://srishtiim.github.io/sustainability/fashion.htm">Fashion and sustainability</a>
+ There are many areas where sustainability can be improved hlfkj
+some of the major areas where change can take place are
+
+<li> <a href="https://srishtiim.github.io/sustainability/fashion.htm">Fashion and sustainability</a></li>
+<li>Pharmaceuticals</li>
+<li>Packaging </li>
+
+
 
  
   
