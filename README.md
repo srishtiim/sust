@@ -14,8 +14,8 @@ The term sustainability is derived from the Latin word sustinere. "To sustain" c
   <p><font size="4.5">Even the Kellogs cereal that we eat, the box is made out of recycled cardboard.
  However, most of the global plastics waste goes into incineration (25%) and landfills (40%), meaning that the proper usage of these materials doesn't take place..</font></p>
 
- <p><font size="4.5">There are many areas where sustainability can be improved hlfkj
-some of the major areas where change can take place are
+ <p><font size="4.5">There are many areas where sustainability can be augmented to progress further.
+Some of the major areas where change can take place are
 
 <li><a href="https://srishtiim.github.io/sustainability/fmcg.htm">FMCG (Fast Moving Consumer Goods) </a> </li>
 <li> <a href="https://srishtiim.github.io/sustainability/fashion.htm">Fashion and sustainability</a></li>
