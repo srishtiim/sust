@@ -15,6 +15,7 @@
  <p><font size="4.5">There are many areas where sustainability can be improved hlfkj
 some of the major areas where change can take place are
 
+<li>FMCG (Fast Moving Consumer Goods) </li>
 <li> <a href="https://srishtiim.github.io/sustainability/fashion.htm">Fashion and sustainability</a></li>
 <li>Pharmaceuticals</li>
 <li>Packaging </li>
