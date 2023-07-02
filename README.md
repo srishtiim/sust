@@ -5,7 +5,7 @@
 </head>
 <body style="background-color:#bdcebe;">
 
-  <h1><font face=Times New Roman>Starting Sustainability</font></h1>
+  <h1><font font color="#556B2F" face=Times New Roman>Starting Sustainability</font></h1>
   <h2><font face=Times New Roman>Catching Them Young</font></h2>
 <p><font size="4.5">Sustainability , for a student is a concept to reduce the amount of wastage in their daily lives to support the future generations. <br>
 
