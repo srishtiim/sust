@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Starting Sustainability</title>
-  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="index.css" type="text">
 </head>
 <body style="background-color:#bdcebe;">
 
