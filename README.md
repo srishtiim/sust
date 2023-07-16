@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Starting Sustainability</title>
-  <link rel="stylesheet" href="index.css" type="text">
+  <link rel="stylesheet" href="index.css" type="text/css">
 </head>
 
 <h1><font font color="#588c7e" face=Times New Roman>Starting Sustainability</font></h1>
