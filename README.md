@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 
   <link rel="stylesheet" href="index.css" type="text/css">
 </head>
 
-  <body>
+ <body style="background-color:#bdcebe;">
 
 <h1><font font color="#588c7e" face=Times New Roman>Starting Sustainability</font></h1>
 <h2><font font color="#588c7e" face=Times New Roman>Catching Them Young</font></h2>
