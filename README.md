@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Starting Sustainability</title>
+
   <link rel="stylesheet" href="index.css" type="text/css">
 </head>
 
