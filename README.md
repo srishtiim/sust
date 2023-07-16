@@ -4,6 +4,7 @@
 <title>Starting Sustainability</title>
   <link rel="stylesheet" href="index.css" type="text/css">
 </head>
+<body>
 
 <h1><font font color="#588c7e" face=Times New Roman>Starting Sustainability</font></h1>
 <h2><font font color="#588c7e" face=Times New Roman>Catching Them Young</font></h2>
@@ -32,5 +33,5 @@ Some of the major areas where change can take place are
   </font></p>
 
 
-
+</body>
 </html>
