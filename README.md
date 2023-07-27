@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="https://srishtiim.github.io/sustainability/index.css" https://open.spotify.com/playlist/1K6QzDZSYfm3nSiCVyhvIDtype="text/css">
+<link rel="stylesheet" href="https://srishtiim.github.io/sustainability/index.css" >
 </head>
 
  <body style="background-color:#bdcebe;">
