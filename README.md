@@ -8,7 +8,7 @@
 <div class="top-container">
 <h1><font font color="#588c7e" face=Times New Roman>Starting Sustainability</font></h1>
 <h2><font font color="#588c7e" face=Times New Roman>Catching Them Young</font></h2>
-<p><font size="5">Sustainability , for a student is a concept to reduce the amount of wastage in their daily lives to support the future generations.
+<p class="p1"><font size="5">Sustainability , for a student is a concept to reduce the amount of wastage in their daily lives to support the future generations.
  
  
  <div class="middle-container">
