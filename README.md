@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="index.css" >
+<link rel="stylesheet" href="https://srishtiim.github.io/sustainability/index.css" >
 </head>
 
  <body style="background-color:#bdcebe;">
