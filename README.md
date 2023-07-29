@@ -21,10 +21,10 @@
  <p class="p1"><font size="5">There are many areas where sustainability can be augmented to progress further.
 Some of the major areas where change can take place are
 
-<li><a href="https://srishtiim.github.io/sustainability/fmcg.htm" target="_blank">FMCG (Fast Moving Consumer Goods) </a> </li>
-<li> <a href="https://srishtiim.github.io/sustainability/fashion.htm" target="_blank">Fashion and sustainability</a></li>
-<li>Pharmaceuticals</li>
-<li>Packaging </li>
+<li class="l1"><a href="https://srishtiim.github.io/sustainability/fmcg.htm" target="_blank">FMCG (Fast Moving Consumer Goods) </a> </li>
+<li class="l1"> <a href="https://srishtiim.github.io/sustainability/fashion.htm" target="_blank">Fashion and sustainability</a></li>
+<li class="l1">Pharmaceuticals</li>
+<li class="l1">Packaging </li>
 
 
 
