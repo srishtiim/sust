@@ -1,9 +1,9 @@
 
 .top-container{
     background-color: #F3D7C4;
-    position: relative;
+    position: center;
     padding: 110px;
-   background-size: cover;
+   background-size: 900px;
 }
 
 .middle-container{
