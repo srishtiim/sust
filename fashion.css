@@ -6,3 +6,9 @@
   height: 700px;
   width: 100%; 
 }
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 110px;
+}
