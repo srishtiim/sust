@@ -49,7 +49,7 @@ Some of the major areas where change can take place are
     <li><a href="#">Contact</a></li>
     <li><a href="#" class="active">Careers</a></li>
   </ul>
-  </nav
+  </nav>
 
 
 
