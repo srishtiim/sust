@@ -1,7 +1,7 @@
 
 .top-container{
     background-color: #F3D7C4;
-    position: fixed;
+     position: relative;
     padding: 110px;
    width: 800px;
 }
