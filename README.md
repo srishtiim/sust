@@ -40,7 +40,17 @@ Some of the major areas where change can take place are
         <a class="link" href="https://srishtiim.github.io/profile/">Website</a>
         <p class="copyright">© 2023 srishti-mukherjee</p>
       </div>
-      
+
+      <div class="container">
+  <nav>
+  <ul class="bar">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Contact</a></li>
+    <li><a href="#" class="active">Careers</a></li>
+  </ul>
+  </nav
+
 
 
 </body>
