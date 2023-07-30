@@ -23,6 +23,7 @@ Some of the major areas where change can take place are
 
 <li class="l1"><a href="https://srishtiim.github.io/sustainability/fmcg.htm" target="_blank">FMCG (Fast Moving Consumer Goods) </a> </li>
 <li class="l1"> <a href="https://srishtiim.github.io/sustainability/fashion.htm" target="_blank">Fashion and sustainability</a></li>
+<li class="l1"> <a href="https://srishtiim.github.io/sustainability/trial.htm" target="_blank">Trial</a></li>
 <li class="l1">Pharmaceuticals</li>
 <li class="l1">Packaging </li>
 
