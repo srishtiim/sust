@@ -3,9 +3,11 @@
             color: #e0e2db;
             background: url(
 https://srishtiim.github.io/sustainability//hm.jpeg);
+            height: 100%; 
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
+   
         }
   
         .service-item {
