@@ -34,6 +34,7 @@ h2 {
   .top-container{
     background-color: #FFDAB9;
     position: relative;
+    left: 100px;
     padding: 90px;
      width: 70%;
 }
