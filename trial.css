@@ -12,6 +12,8 @@ https://srishtiim.github.io/sustainability//hm.jpeg);
         }
   
         .service-item {
+         height: 100%; 
+  width: 100%
             overflow: hidden;
             position: relative;
             padding: 80px;
