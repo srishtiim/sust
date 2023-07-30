@@ -45,20 +45,7 @@ https://srishtiim.github.io/sustainability//sustaes.jpg);
             margin-bottom: 20px;
         }
   
-        .back-text button {
-            margin-top: 20px;
-            padding: 10px 20px;
-            background: transparent;
-            border: 2px solid 	#CD5C5C;
-            font-size: 20px;
-            color:	#CD5C5C;
-        }
-  
-        .back-text button:hover {
-            background-color: #30804b;
-            color: #191716;
-        }
-  
+
         .service-item:hover .front-text {
             transform: translateY(-200px);
         }
