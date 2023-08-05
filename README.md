@@ -19,7 +19,7 @@
  However, most of the global plastics waste goes into incineration (25%) and landfills (40%), meaning that the proper usage of these materials doesn't take place.</font></p>
 
  <p class="p1"><font size="5">There are many areas where sustainability can be augmented to progress further.
-Some of the major areas where change can take place are
+Some of the major areas where change can take place are 
 
 <li class="l1"><a href="https://srishtiim.github.io/sustainability/fmcg.htm" target="_blank">FMCG (Fast Moving Consumer Goods) </a> </li>
 <li class="l1"> <a href="https://srishtiim.github.io/sustainability/fashion.htm" target="_blank">Fashion and sustainability</a></li>
