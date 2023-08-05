@@ -52,6 +52,17 @@ Some of the major areas where change can take place are
 
   <div id="banner">
     <div class="content">
-      <h1>Conservation Efforts at Lake Tahoe Being Praised by Nation's Leaders</h1>
+
+    <form action="/action_page.php" target="_blank">
+  <label for="fname"  face=Times New Roman>First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe">
+  <input type="submit" value="Submit">
+</form>
+
+
+
+     
     </div>
   </div>
