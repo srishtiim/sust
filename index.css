@@ -47,8 +47,3 @@ h2 {
   text-align: center;
      padding: 50px 0 20px;  
 }
-
-  @media print {
-  footer {page-break-after: always;}
-}
-
