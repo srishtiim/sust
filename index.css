@@ -40,6 +40,8 @@ h2 {
 .middle-container {
   font-size: 4.5
     font-family: "Times New Roman", Times, serif;
+   margin: auto;
+}
 
 .footer {
   background-color: #f1f1f1;
