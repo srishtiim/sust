@@ -48,3 +48,9 @@ Some of the major areas where change can take place are
   <input type="text" id="lname" name="lname" value="Doe">
 </form>
 
+
+  <div id="banner">
+    <div class="content">
+      <h1>Conservation Efforts at Lake Tahoe Being Praised by Nation's Leaders</h1>
+    </div>
+  </div>
