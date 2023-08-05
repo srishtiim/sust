@@ -50,8 +50,6 @@ Some of the major areas where change can take place are
 </form>
 
 
-  <div id="banner">
-    <div class="content">
 
     <form action="/action_page.php" target="_blank">
   <label for="fname"  face=Times New Roman>First name:</label><br>
