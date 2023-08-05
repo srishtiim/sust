@@ -3,13 +3,6 @@ body {
 }
 
 
-#banner {
-  background-size: cover;
-  background-position: bottom center;
-  height: 700px;
-  width: 80%;
-
-
 h1 {
   font-size: 50px;
   font-weight: 600;
