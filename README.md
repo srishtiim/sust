@@ -41,15 +41,8 @@ Some of the major areas where change can take place are
         <a class="link" href="https://srishtiim.github.io/profile/">Website</a>
       </div>
 
-      <form action="/url" method="GET">
-        <p>Please enter your first and last name:</p>
-        <input type="text" placeholder="John">
-        <input type="text" placeholder="Doe">
-    </form>
-
-
 <form>
-  <label for="fname">First name:</label><br>
+  <label for="fname"  face=Times New Roman>First name:</label><br>
   <input type="text" id="fname" name="fname" value="John"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Doe">
