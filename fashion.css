@@ -9,6 +9,16 @@ https://srishtiim.github.io/sustainability//aes.jpg)
             background-repeat: no-repeat;
     }
 
+ .top-container{
+    background-color:#FFEFD5;
+    background-position: center;
+    margin: 0 auto;
+    position: relative;
+    padding: 90px;
+     width: 60%;
+}
+
+
  .service-item {
 
             overflow: hidden;
@@ -71,16 +81,7 @@ h2 {
 .l1 {
    font-family: "Times New Roman", Times, serif;
 }
-  
 
- .top-container{
-    background-color:#FFEFD5;
-    background-position: center;
-    margin: 0 auto;
-    position: relative;
-    padding: 90px;
-     width: 60%;
-}
 
 .middle-container {
   font-size: 4.5
