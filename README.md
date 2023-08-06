@@ -28,6 +28,7 @@ Some of the major areas where change can take place are
 <li class="l1"> <a href="https://srishtiim.github.io/sustainability/trial.htm" target="_blank">Trial</a></li>
 <li class="l1">Pharmaceuticals</li>
 <li class="l1">Packaging </li>
+<li class="l1"> <a href="https://srishtiim.github.io/sustainability/triall.htm" target="_blank">Triall</a></li>
  </font></p>
 
  <div class="footer">
