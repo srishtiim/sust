@@ -1,4 +1,5 @@
  .services-container {
+            max-width: 600px;
             margin: 0 auto;
             color: #e0e2db;
             background: url(
