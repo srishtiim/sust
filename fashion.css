@@ -31,14 +31,14 @@ h2 {
    font-family: "Times New Roman", Times, serif;
 }
   
-  .top-container{
-    background-color: #FFEFD5;
+
+ .top-container{
+    background-color:#FFEFD5;
     background-position: center;
     margin: 0 auto;
     position: relative;
-    left: 150px;
     padding: 90px;
-     width: 70%;
+     width: 60%;
 }
 
 .middle-container {
