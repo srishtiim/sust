@@ -1,14 +1,55 @@
-body {
-  font-family: 'Raleway', sans-serif;
-}
+ .services-container {
+            max-width: 900px;
+            margin: 0 auto;
+            color: #e0e2db;
+            background: url(
+https://srishtiim.github.io/sustainability//aes.jpg)
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+    }
 
+ .service-item {
 
-#banner {
-  background-size: cover;
-  background-position: bottom center;
-  height: 700px;
-  width: 70%; 
-}
+            overflow: hidden;
+            position: relative;
+            padding: 80px;
+        }
+  
+        .service-item-black {
+            background: linear-gradient(
+                rgba(0, 0, 0, 0.7), 
+                rgba(0, 0, 0, 0.7)
+            );
+        }
+  
+        .front-text {
+            text-align: center;
+            transition: transform 2s;
+        }
+  
+        .back-text {
+            position: absolute;
+            bottom: -15em;
+            width: 75%;
+            margin: 0 auto;
+            height: 100%;
+            transition: bottom 2s;
+            padding: 15px 0;
+        }
+  
+        .back-text h1 {
+            margin-bottom: 20px;
+        }
+  
+
+        .service-item:hover .front-text {
+            transform: translateY(-200px);
+        }
+  
+        .service-item:hover .back-text {
+            bottom: 0;
+        }
 
 
 
