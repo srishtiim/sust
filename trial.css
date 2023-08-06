@@ -9,6 +9,17 @@ https://srishtiim.github.io/sustainability//aes.jpg)
             background-repeat: no-repeat;
    
         }
+
+
+ .top-container {
+            max-width: 900px;
+            margin: 0 auto;
+            color: #e0e2db;
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+   
+        }
   
         .service-item {
 
