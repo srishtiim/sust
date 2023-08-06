@@ -25,6 +25,7 @@ h2 {
   
   .top-container{
     background-color: #E0FFFF;
+    margin: 0 auto;
     position: relative;
     left: 150px;
     padding: 90px;
