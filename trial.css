@@ -10,14 +10,14 @@ https://srishtiim.github.io/sustainability//aes.jpg)
    
         }
 
-
-  div {
-         width: 120px;
-         height: 60px;
-         padding: 5px;
-         border: 3px solid #8E44AD ;
-         margin: 0;
-      }
+  .middle-container{
+    background-color: #E4F9F5;
+     max-width: 1000px;
+    position: relative;
+    margin: 0 auto;
+    left: 150px;
+    padding: 90px;
+}
 
         .service-item {
 
