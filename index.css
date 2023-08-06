@@ -26,12 +26,6 @@ h2 {
      width: 80%;
 }
 
-.middle-container {
-  font-size: 4.5
-    font-family: "Times New Roman", Times, serif;
-   margin: auto;
-}
-
 .footer {
   background-color: #bdcebe;
   padding: 10px;
@@ -40,8 +34,3 @@ h2 {
 }
 
 
-.Container{
-margin-top: 10%
-  font-family: "Times New Roman", Times, serif;
-  
-}
