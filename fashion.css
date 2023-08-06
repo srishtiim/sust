@@ -33,6 +33,7 @@ h2 {
   
   .top-container{
     background-color: #FFEFD5;
+    background-position: center;
     margin: 0 auto;
     position: relative;
     left: 150px;
