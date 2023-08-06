@@ -21,20 +21,14 @@
  <p class="p1"><font size="5">There are many areas where sustainability can be augmented to progress further.
 Some of the major areas where change can take place are 
 
+<img align="right" src="https://srishtiim.github.io/sustainability/sust.jpg" width="300" height="240">
+
 <li class="l1"><a href="https://srishtiim.github.io/sustainability/fmcg.htm" target="_blank">FMCG (Fast Moving Consumer Goods) </a> </li>
 <li class="l1"> <a href="https://srishtiim.github.io/sustainability/fashion.htm" target="_blank">Fashion and sustainability</a></li>
 <li class="l1"> <a href="https://srishtiim.github.io/sustainability/trial.htm" target="_blank">Trial</a></li>
 <li class="l1">Pharmaceuticals</li>
 <li class="l1">Packaging </li>
-
-
-
- 
-  
-  <img align="right" src="https://srishtiim.github.io/sustainability/sust.jpg" width="300" height="240">
-  
-  
-  </font></p>
+ </font></p>
 
  <div class="footer">
         <a class="link" href="https://www.linkedin.com/in/srishti-mukherjee/">LinkedIn</a>
