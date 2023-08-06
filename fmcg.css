@@ -22,14 +22,15 @@ h2 {
 .l1 {
    font-family: "Times New Roman", Times, serif;
 }
-  
-  .top-container{
+
+
+ .top-container{
     background-color: #E0FFFF;
+    background-position: center;
     margin: 0 auto;
     position: relative;
-    left: 150px;
     padding: 90px;
-     width: 70%;
+     width: 60%;
 }
 
 .middle-container {
