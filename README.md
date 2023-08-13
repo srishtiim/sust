@@ -35,4 +35,5 @@ Some of the major areas where change can take place are
         <a class="link" href="https://srishtiim.github.io/profile/">Website</a>
       </div>
 
+<a href="https://www.linkedin.com/in/srishti-mukherjee/" class="fa fa-linkedin"></a>
 
