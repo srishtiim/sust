@@ -33,9 +33,8 @@ Some of the major areas where change can take place are
  <div class="footer">
         <a class="link" href="https://www.linkedin.com/in/srishti-mukherjee/">LinkedIn</a>
         <a class="link" href="https://srishtiim.github.io/profile/">Website</a>
+  <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/srishti-mukherjee/');" title="">in</div>
       </div>
 
-<a href="https://www.linkedin.com/in/srishti-mukherjee/" class="fa fa-linkedin"></a>
 
-<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/srishti-mukherjee/');" title="">in</div>
-(https://www.linkedin.com/sharing/share-offsite/?url=
+
