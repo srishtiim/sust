@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="https://srishtiim.github.io/sustainability/index.css" >
+<link rel="stylesheet" href="https://srishtiim.github.io/sustainability/index.css" href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
 </head>
 
  <body style="background-color:#bdcebe;">
