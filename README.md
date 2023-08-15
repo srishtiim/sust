@@ -37,4 +37,5 @@ Some of the major areas where change can take place are
 
 <a href="https://www.linkedin.com/in/srishti-mukherjee/" class="fa fa-linkedin"></a>
 
-<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/srishti-mukherjee/');" title="">in</div
+<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/srishti-mukherjee/');" title="">in</div>
+(https://www.linkedin.com/sharing/share-offsite/?url=
