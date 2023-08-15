@@ -35,6 +35,6 @@ Some of the major areas where change can take place are
   <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/srishti-mukherjee/');" title="">in</div>
       </div>
 
-<i class="fa fa-github" style="font-size:36px"></i>
+<i class="fab fa-github"></i>
 
 
