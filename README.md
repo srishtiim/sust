@@ -31,11 +31,9 @@ Some of the major areas where change can take place are
  </div>
 
  <div class="footer">
-      <a class="link" href="https://srishtiim.github.io/profile/">Website</a>
+     
   <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/srishti-mukherjee/');" title="">in</div>
+   <a class="link" href="https://srishtiim.github.io/profile/">Website</a>
       </div>
 
-<i class="fab fa-github"></i>
-
-<li><span class='Github fontawesomeicon'></span>Github</li>
 
