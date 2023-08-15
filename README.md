@@ -9,7 +9,7 @@
 
  <h1><font font color="#588c7e" face=Times New Roman>Starting Sustainability</font></h1>
 <h2><font font color="#588c7e" face=Times New Roman>Catching Them Young</font></h2>
-<p class="p1"><font size="5">Sustainability , for a student is a concept to reduce the amount of wastage in their daily lives to support the future generations.
+<p class="p1"><font size="5">Sustainability , for a student is a concept to reduce the amount of wastage in their daily lives to support the future generations.</font></p>
  
 <p class="p1"> The term sustainability is derived from the Latin word sustinere. "To sustain" can mean to maintain, support, uphold, or endure.However this concept needs to be incorporated for the system to actually work. Plethora of consumerism and product packaging is one of the main areas where sustainability can be targeted. Every product bought not recylable has a lasting consequence on the environment.</p>
 
