@@ -42,15 +42,3 @@ h2 {
   text-align: center;width:40px;}
 #idLinkedInIcon:hover{background-color:#06d;}
 
-<style> 
-.fontawesomeicon::before {
-    display: inline-block;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
- }
-
-.Github::before {
-   font: var(--fa-font-brands);
-    content: ' \f09b';
- }</style>
-
