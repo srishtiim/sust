@@ -37,4 +37,5 @@ Some of the major areas where change can take place are
 
 <i class="fab fa-github"></i>
 
+<li><span class='Github fontawesomeicon'></span>Github</li>
 
